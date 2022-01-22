@@ -1,0 +1,114 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+}
+
+h2 {
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  color: black;
+  padding-left: 20px;
+}
+li{
+  color: hsl(240, 75%, 98%);
+  margin-bottom: 1rem;
+}
+
+span {
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.logo{
+  width: 120px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.middle {
+  background-color: hsl(240, 75%, 98%);
+}
+
+.avatar {
+  width: 40px;
+  border-radius: 50%;
+}
+
+.see {
+  color: hsl(170, 45%, 43%);
+  display: inline;
+  padding-bottom: 5px;
+  border-bottom-style: solid;
+  border-color: hsl(170, 45%, 43%);
+  border-bottom-width: thin;
+}
+
+.comment {
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 30px;
+  text-align: left;
+}
+
+.border {
+  padding: 5px;
+  margin-left: 10px;
+  border-radius: 50%;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  filter: invert();
+}
+
+.attribution {
+  font-size: 10px;
+  text-align: center;
+  margin: 0;
+  padding-bottom: 5px;
+  color: hsl(240, 75%, 98%);
+}
+
+.attribution a {
+  color: hsl(240, 75%, 98%);
+}
+
+.dark-blue {
+  background-color: hsl(243, 87%, 12%);
+}
+
+.desaturated-blue {
+  background-color: hsl(238, 22%, 44%);
+}
+
+.bright-blue {
+  background-color: hsl(224, 93%, 58%);
+}
+
+.moderate-cyan {
+  border-color: hsl(170, 45%, 43%);
+}
+
+.grayish-blue {
+  color: hsl(240, 75%, 98%);
+}
+
+.light-gray {
+  color: hsl(0, 0%, 75%);
+}
